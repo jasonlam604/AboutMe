@@ -4,7 +4,7 @@
 In each of the project below you can find my specific contribution on the contribution page
 
 ### Go Validator
-A package of validators and sanitizers for strings, structs and collections. Used by 13.2k+ people
+A package of validators and sanitizers for strings, structs and collections. Used by **13.2k+ people**
 - [Github Repo](https://github.com/asaskevich/govalidator)
 - [Contribution Page](https://github.com/asaskevich/govalidator/graphs/contributors)
 
