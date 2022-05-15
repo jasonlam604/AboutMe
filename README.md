@@ -14,7 +14,10 @@ Slim is a PHP micro framework that helps you quickly write simple yet powerful w
 - [GitHub Repo](https://github.com/slimphp/Slim)
 - [Contribution Page](https://github.com/slimphp/Slim/graphs/contributors)
 
-
+### Mobile Detect
+Mobile Detect is a lightweight PHP class for detecting mobile devices (including tablets).
+- [GitHub Repo](https://github.com/serbanghita/Mobile-Detect)
+- [Contribution Page](https://github.com/serbanghita/Mobile-Detect/graphs/contributors)
 
 ### Browser PHP
 Detect the user's browser and platform at the PHP level via the user agent
