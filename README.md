@@ -1,4 +1,6 @@
 # Summary of My Open Source Contributions
+Both My own projects and 3rd party projects.
+
 
 ## 3rd Open Source Projects
 In each of the project below you can find my specific contribution on the contribution page
