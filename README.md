@@ -50,13 +50,13 @@ Detect the user's browser and platform at the PHP level via the user agent
 
 ### StringizerLua
 A convenient plugin but not necessary because you can just use 'copy' and 'delete' tasks in Grunt. Built this more to fiddle around with Grunt and to gain some knowledge HowTo build a plugin for Grunt.
-- Techology: Lua, LuaRocks for package management, Busted for unit testing, Coveralls
+- Techology: Lua, LuaRocks for package management, Busted for unit testing, Coveralls for code coverage, TravisCI for Continuous Integration
 - [GitHub Repo](https://github.com/jasonlam604/StringizerLua)
 - **Status Active Development / Unstable**
 
 ### Stringizer
 Stringizer is a PHP string manipulation library with support for method chaining and multibyte handling
-- Techology: PHP, PHPUnit, Coveralls
+- Techology: PHP, PHPUnit, Coveralls for code coverage, TravisCI for Continuous Integration
 - [GitHub Repo](https://github.com/jasonlam604/Stringizer)
 
 ### Grunt Rename Plugin
