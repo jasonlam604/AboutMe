@@ -2,8 +2,8 @@
 Both My own projects and 3rd party projects.
 
 **3rd Open Source Projects**
-* [Go Validator](#go-validator)
-* [Slim Framework](#slim-framework)
+* [Go Validator](#go-validator), used by more then 13.2k+ people
+* [Slim Framework](#slim-framework) , 20+ million downloads
 * [Mobile Detect](#mobile-detect)
 * [Browser](#browser)
 
