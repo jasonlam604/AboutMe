@@ -39,6 +39,12 @@ A convenient plugin but not necessary because you can just use 'copy' and 'delet
 - [NPMJS.com Package Details](https://www.npmjs.com/package/grunt-rename-util)
 - [GitHub Repo](https://github.com/jasonlam604/grunt-rename-util)
 
+### J2ME & Gaming (Open Source Book and Source Code)
+J2ME & Gaming Book with focus using MIDP 2.0; created when J2ME was the dominant SDK for mobile development prior to iOS and Android.  200K+ downloads on sourceforge.net
+- Techology: Java, J2ME
+- [SourceForge.net Repo](https://sourceforge.net/projects/j2megamingbook/)
+- [GitHub Repo](https://github.com/jasonlam604/j2megamingbook)
+
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/jasonlam604/)
 - [Stackoverflow](https://stackoverflow.com/users/5348307/jasonlam604)
