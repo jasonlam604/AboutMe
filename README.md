@@ -1,7 +1,21 @@
 # Summary of My Open Source Contributions
 Both My own projects and 3rd party projects.
 
+**3rd Open Source Projects**
+* [Go Validator](#go-validator)
+* [Slim Framework](#slim-framework)
+* [Mobile Detect](#mobile-detect)
+* [Browser](#browser)
 
+**My Own Open Source Projects**
+* [StringizerLua](#stringizerlua)
+* [Stringizer](#stringizer)
+* [Grunt Rename Plugin](#grunt-rename-plugin)
+* [J2ME and Gaming Book](#j2me-and-gaming-book)
+
+**[Contact Me](#contact-me)**
+
+---
 ## 3rd Open Source Projects
 In each of the project below you can find my specific contribution on the contribution page
 
@@ -24,12 +38,13 @@ Mobile Detect is a lightweight PHP class for detecting mobile devices (including
 - [GitHub Repo](https://github.com/serbanghita/Mobile-Detect)
 - [Contribution Page](https://github.com/serbanghita/Mobile-Detect/graphs/contributors)
 
-### Browser PHP
+### Browser
 Detect the user's browser and platform at the PHP level via the user agent
 - Techology: PHP
 - [GitHub Repo](https://github.com/cbschuld/Browser.php)
 - [Contribution Page](https://github.com/cbschuld/Browser.php/graphs/contributors)
 
+---
 
 ## My Own Open Source Projects
 
@@ -50,7 +65,7 @@ A convenient plugin but not necessary because you can just use 'copy' and 'delet
 - [NPMJS.com Package Details](https://www.npmjs.com/package/grunt-rename-util)
 - [GitHub Repo](https://github.com/jasonlam604/grunt-rename-util)
 
-### J2ME & Gaming (Open Source Book and Source Code)
+### J2ME and Gaming Book
 J2ME & Gaming Book with focus using MIDP 2.0; created when J2ME was the dominant SDK for mobile development prior to iOS and Android.  200K+ downloads on sourceforge.net
 - Techology: Java, J2ME, MIDP 2.0
 - [SourceForge.net Repo](https://sourceforge.net/projects/j2megamingbook/)
