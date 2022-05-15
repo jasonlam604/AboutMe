@@ -9,7 +9,7 @@ Both My own projects and 3rd party projects.
 
 **My Own Open Source Projects**
 * [StringizerLua](#stringizerlua)
-* [Stringizer](#stringizer)
+* [Stringizer](#stringizer), Awarded the Innovation Award in June 2016 from PHPClasses.org.
 * [Grunt Rename Plugin](#grunt-rename-plugin)
 * [J2ME and Gaming Book](#j2me-and-gaming-book)
 
