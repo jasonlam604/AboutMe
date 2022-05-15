@@ -33,7 +33,16 @@ Detect the user's browser and platform at the PHP level via the user agent
 
 ## My Own Open Source Projects
 
-### 
+### StringizerLua
+A convenient plugin but not necessary because you can just use 'copy' and 'delete' tasks in Grunt. Built this more to fiddle around with Grunt and to gain some knowledge HowTo build a plugin for Grunt.
+- Techology: Lua, LuaRocks for package management, Busted for unit testing, Coveralls
+- [GitHub Repo](https://github.com/jasonlam604/StringizerLua)
+- **Status Active Development / Unstable**
+
+### Stringizer
+Stringizer is a PHP string manipulation library with support for method chaining and multibyte handling
+- Techology: PHP, PHPUnit, Coveralls
+- [GitHub Repo](https://github.com/jasonlam604/Stringizer)
 
 ### Grunt Rename Plugin
 A convenient plugin but not necessary because you can just use 'copy' and 'delete' tasks in Grunt. Built this more to fiddle around with Grunt and to gain some knowledge HowTo build a plugin for Grunt.
@@ -43,7 +52,7 @@ A convenient plugin but not necessary because you can just use 'copy' and 'delet
 
 ### J2ME & Gaming (Open Source Book and Source Code)
 J2ME & Gaming Book with focus using MIDP 2.0; created when J2ME was the dominant SDK for mobile development prior to iOS and Android.  200K+ downloads on sourceforge.net
-- Techology: Java, J2ME
+- Techology: Java, J2ME, MIDP 2.0
 - [SourceForge.net Repo](https://sourceforge.net/projects/j2megamingbook/)
 - [GitHub Repo](https://github.com/jasonlam604/j2megamingbook)
 
