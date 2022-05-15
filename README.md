@@ -50,7 +50,8 @@ Detect the user's browser and platform at the PHP level via the user agent
 
 ### StringizerLua
 A convenient plugin but not necessary because you can just use 'copy' and 'delete' tasks in Grunt. Built this more to fiddle around with Grunt and to gain some knowledge HowTo build a plugin for Grunt.
-- Techology: Lua, LuaRocks for package management, Busted for unit testing, Coveralls for code coverage, TravisCI for Continuous Integration
+- Techology: Lua, LuaRocks for package management, Busted for unit testing
+- [Available via LuaRocks](https://luarocks.org/modules/jasonlam604/stringizer-lua)
 - [GitHub Repo](https://github.com/jasonlam604/StringizerLua)
 - **Status Active Development / Unstable**
 
