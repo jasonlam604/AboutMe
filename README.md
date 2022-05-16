@@ -77,6 +77,11 @@ Provide PHP Info at command line with the goal of providing most if not all the 
 - Techology: PHP
 - [GitHub Repo](https://github.com/jasonlam604/PhpInfoCLI)
 
+### BorderJS
+BorderJS is a client side border revealer. For the times when you are developing your web site and you can't make out exactly where the margin, padding and/or overlay begins or ends simply dropping in border.min.js will easily reveal this for you.
+- Techology: Javascript
+- [GitHub Repo](https://github.com/jasonlam604/borderjs)
+
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/jasonlam604/)
 - [Stackoverflow](https://stackoverflow.com/users/5348307/jasonlam604)
