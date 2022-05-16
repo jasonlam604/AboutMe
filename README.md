@@ -12,6 +12,7 @@ Both My own projects and 3rd party projects.
 * [Stringizer](#stringizer), Awarded the Innovation Award in June 2016 from PHPClasses.org.
 * [Grunt Rename Plugin](#grunt-rename-plugin)
 * [J2ME and Gaming Book](#j2me-and-gaming-book)
+* [J2ME UI Library](#j2me-ui-library)
 * [PHP Info CLI](#php-info-cli)
 * [BorderJS](#borderjs)
 
@@ -73,6 +74,11 @@ J2ME & Gaming Book with focus using MIDP 2.0; created when J2ME was the dominant
 - Techology: Java, J2ME, MIDP 2.0
 - [SourceForge.net Repo](https://sourceforge.net/projects/j2megamingbook/)
 - [GitHub Repo](https://github.com/jasonlam604/j2megamingbook)
+
+### J2ME UI Library
+J2ME UI Canvas code, used back before when libraries such as LWUIT was around; as well, before iOS and Android became popular
+- Techology: Java, J2ME, MIDP 1.0, MIDP 2.0
+- [GitHub Repo](https://github.com/jasonlam604/J2ME-UI)
 
 ### PHP Info CLI
 Provide PHP Info at command line with the goal of providing most if not all the info you would see using phpinfo() when displayed on a web page.
