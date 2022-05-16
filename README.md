@@ -12,6 +12,8 @@ Both My own projects and 3rd party projects.
 * [Stringizer](#stringizer), Awarded the Innovation Award in June 2016 from PHPClasses.org.
 * [Grunt Rename Plugin](#grunt-rename-plugin)
 * [J2ME and Gaming Book](#j2me-and-gaming-book)
+* [PHP Info CLI](#php-info-cli)
+* [BorderJS](#borderjs)
 
 **[Contact Me](#contact-me)**
 
