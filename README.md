@@ -72,6 +72,11 @@ J2ME & Gaming Book with focus using MIDP 2.0; created when J2ME was the dominant
 - [SourceForge.net Repo](https://sourceforge.net/projects/j2megamingbook/)
 - [GitHub Repo](https://github.com/jasonlam604/j2megamingbook)
 
+### PHP Info CLI
+Provide PHP Info at command line with the goal of providing most if not all the info you would see using phpinfo() when displayed on a web page.
+- Techology: PHP
+- [GitHub Repo](https://github.com/jasonlam604/PhpInfoCLI)
+
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/jasonlam604/)
 - [Stackoverflow](https://stackoverflow.com/users/5348307/jasonlam604)
