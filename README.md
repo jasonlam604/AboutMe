@@ -16,6 +16,10 @@ Both My own projects and 3rd party projects.
 * [PHP Info CLI](#php-info-cli)
 * [BorderJS](#borderjs)
 
+
+**Articles**
+* [Heroku Deploy using CLI](#heroku-deploy-using-cli)
+
 **[Contact Me](#contact-me)**
 
 ---
@@ -89,6 +93,16 @@ Provide PHP Info at command line with the goal of providing most if not all the 
 BorderJS is a client side border revealer. For the times when you are developing your web site and you can't make out exactly where the margin, padding and/or overlay begins or ends simply dropping in border.min.js will easily reveal this for you.
 - Techology: Javascript
 - [GitHub Repo](https://github.com/jasonlam604/borderjs)
+
+---
+
+## Articles Written By Me
+
+### Heroku Deploy using CLI
+[Quick Guide to deploying to Heroku via command line using git](https://medium.com/@jasonlam604/heroku-deploy-using-cli-c8bfcd2041d4).
+
+
+---
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/jasonlam604/)
